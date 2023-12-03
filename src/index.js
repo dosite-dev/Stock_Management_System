@@ -13,8 +13,18 @@ let newItem = {
     amount: 2,
     pricePerUnit: 2000.0,
 };
-
 add(newItem);
+let newone ={
+    name:"vanilla yogourt",
+    measurementUnit: "pcs",
+    amount: 3,
+    pricePerUnit: 3000.0,
+};
+
+add(newone);
+
+
+
 
 
 /**
