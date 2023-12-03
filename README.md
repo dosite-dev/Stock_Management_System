@@ -1,1 +1,1 @@
-# Stock_Management_System
+# Stock_Mgt_System
